@@ -1,17 +1,40 @@
-### Hi there 👋
+# 👋 Welcome to ghost1face’s GitHub!
 
-<!--
-**ghost1face/ghost1face** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **ghost1face**
 
-Here are some ideas to get you started:
+Passionate about open-source, innovation, technology, collaboration, and building cool things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# ghost1face
+---
+
+### 🚀 About Me
+
+- 🧑‍💻 Technology Leader | Architect | Problem Solver | Tech Enthusiast | Mentor | Advisor
+- 🌍 Always exploring new technologies and frameworks
+- 📚 Lifelong learner
+
+---
+
+### 🛠️ Skills & Interests
+
+- **Languages:** C#, JavaScript, Typescript, Java, Kotlin
+- **Experience:** Distributed systems, Full-stack development, Mobile, Desktop
+- **Frameworks:** React, React Native, Node.js
+- **Cloud:** AWS, Azure
+- **Fun:** Cars, Motorcycles and thrills
+
+---
+
+### ✨ GitHub Stats
+
+![ghost1face's GitHub stats](https://github-readme-stats-xi-azure-58.vercel.app/api?username=ghost1face&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-destouche/)
+- [Personal Website](https://ghost1face.dev)
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ghost1face&style=flat-square)
