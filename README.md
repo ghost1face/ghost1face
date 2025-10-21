@@ -18,7 +18,7 @@ Passionate about open-source, innovation, technology, collaboration, and buildin
 
 - **Languages:** C#, JavaScript, Typescript, Java, Kotlin
 - **Experience:** Distributed systems, Full-stack development, Mobile, Desktop
-- **Frameworks:** React, React Native, Node.js
+- **Frameworks:** ASPNetCore, React, React Native, Vue, Node.js, ElectronJS
 - **Cloud:** AWS, Azure
 - **Fun:** Cars, Motorcycles and thrills
 
