@@ -2,7 +2,7 @@
 
 Hi there! I'm **ghost1face**
 
-Passionate about open-source, innovation, technology, collaboration, and building cool things with code.
+Passionate about open-source, innovation, technology, collaboration, architecture, strategy, and building cool things with code.
 
 ---
 
